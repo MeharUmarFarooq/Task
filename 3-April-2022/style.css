@@ -1,0 +1,102 @@
+
+.pink{
+    background-color: pink;
+}
+.skyblue{
+    background-color: skyblue;
+}
+.yellow{
+    background-color: yellow;
+}
+.gray{
+    background-color: gray;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+.olive{
+    background-color: olive;
+}
+.violet{
+    background-color: violet;
+}
+
+.chartreuse{
+background-color: chartreuse;
+}
+
+.red{
+    background-color: red;
+}
+.brown{
+    background-color: brown;
+}
+.cadetblue{
+    background-color: cadetblue;
+}
+.aqua{
+    border-color: aqua;
+}
+.aquamarine{
+    background-color: aquamarine;
+}
+.darkyellow{
+    background-color: rgb(255,140,0);;
+}
+/*---------------xxx--------------- colors ---------------xxx------------*/
+#container{
+    border: 2px solid black;
+    height: 570px;
+    margin: 20px;
+}
+#row{
+    /* border: 2px solid gray; */
+   height: 230px;     
+    margin-top: 15px;
+}
+#row1{
+    /* border: 2px solid gray; */
+   height: 230px; 
+   margin-top: 65px;    
+}
+#row2{
+    background-color: blueviolet;
+}
+#col1{
+    margin-left: 65px;
+}
+#col2{
+    margin-top: 10px;
+    background-color: rgb(255,140,0);
+}
+#col3{
+    height: 40px;
+    margin-top: 5px;
+}
+
+#col4{
+    height: 130px;
+    margin-top: 5px;
+}
+#col4-1{
+    height: 130px;
+    margin-top: 5px;
+    margin-left: 1px;
+}
+#col4-2{
+margin-left: 12px;
+}
+#col4-3{
+    margin-left: 5px;
+    }
+    
+    
+
+
+
+
+
+
